@@ -841,6 +841,7 @@ h5,
   background-repeat: no-repeat;
   background-position: top;
   background-position: center center;
+  background-image: url(images/hero_2.jpg);
 }
 
 .site-blocks-cover.overlay {
